@@ -19,4 +19,5 @@ Vault Stations affected include:
 - Vault Recycler
 - Wardrobe
 
-I only tested this mod slightly with basic things like breaking and tnt explosions, so bugs may appear, please report those so i can fix them as soon as possible.
+I only tested this mod slightly with basic things like breaking and tnt explosions, so bugs may appear, please report those so i can fix them as soon as possible.<br>
+This mod is only required **Server-side**!
