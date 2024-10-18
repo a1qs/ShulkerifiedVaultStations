@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="GPLv3"
+issueTrackerURL="https://github.com/a1qs"
+
+[[mods]]
+modId="shulkerifiedvaultstations"
+version="${file.jarVersion}"
+displayName="Shulkerified Vault Stations"
+displayURL="https://github.com/a1qs"
+logoFile="shulkerifiedvaultstations.png"
+authors="a1qs"
+description='''
+'''
+
+[[dependencies.shulkerifiedvaultstations]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.shulkerifiedvaultstations]]
+    modId="the_vault"
+    mandatory=true
+    versionRange="[1.18.2-3.15.1.3298,)"
+    ordering="NONE"
+    side="BOTH"
